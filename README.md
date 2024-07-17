@@ -4,13 +4,15 @@
 
 ## Hi there, I'm Arina and a student at 42 London ☀️
 
-💻 I’m currently working on **[C++ Modules](https://github.com/arinatyurina/cpp)**
+💻 I’m currently working on [C++ Modules](https://github.com/arinatyurina/cpp)
 
 📚 I’m learning **C, C++**
 
-📧 You can reach me at  **arina.tyur@gmail.com**
+📧 You can reach me at  arina.tyur@gmail.com
 
 🪷 Apart from coding, I love doing **yoga** and **cycling to the 42 campus**
+
+🎧 Fun fact: My friend and I recorded a [song](https://band.link/vXrw3?fbclid=PAAaYJe-opRA1jm8IWbjay4cU6uK7B6J4oA806W-1-ajJGiUd2K7wET1Mo3Js), and it's been streamed over a million times
 
 ###  My C projects:
 - [Minishell](https://github.com/arinatyurina/minishell) - recreation of Bash

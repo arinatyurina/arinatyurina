@@ -2,9 +2,9 @@
  <img src=https://github.com/user-attachments/assets/c28f1f49-1875-4119-bd1a-20b712becf9e>
 </p>
 
-## Hi there, I'm Arina. ☀️ I am a student at 42 London
+## Hi there, I'm Arina and a student at 42 London ☀️
 
-- 💻 I’m currently working on [C++ Modules](https://github.com/arinatyurina/cpp)
+- 💻 I’m currently working on **[C++ Modules](https://github.com/arinatyurina/cpp)**
 
 - 📚 I’m learning **C, C++**
 

@@ -4,20 +4,24 @@
 
 ## Hi there, I'm Arina and a student at 42 London ☀️
 
-- 💻 I’m currently working on **[C++ Modules](https://github.com/arinatyurina/cpp)**
+💻 I’m currently working on **[C++ Modules](https://github.com/arinatyurina/cpp)**
 
-- 📚 I’m learning **C, C++**
+📚 I’m learning **C, C++**
 
-- 📧 How to reach me **arina.tyur@gmail.com**
+📧 How to reach me **arina.tyur@gmail.com**
 
-- 🪷 Apart from coding, I love doing **yoga** and **cycling to the 42 campus**
+🪷 Apart from coding, I love doing **yoga** and **cycling to the 42 campus**
 
 ###  My C projects:
-[Minishell](https://github.com/arinatyurina/minishell) - recreation of Bash  
-[Philosophers](https://github.com/arinatyurina/philosophers) - exploration of multithreading and mutexes  
-[MiniRT](https://github.com/fredch16/miniRT) (in progress) - a simple ray tracer being built from scratch  
-[Push_swap](https://github.com/arinatyurina/push_swap) - sorting algorithm within limited operations  
-[Pipex](https://github.com/arinatyurina/pipex) - shell redirection and pipes
+- [Minishell](https://github.com/arinatyurina/minishell) - recreation of Bash
+ 
+- [Philosophers](https://github.com/arinatyurina/philosophers) - exploration of multithreading and mutexes
+ 
+- [MiniRT](https://github.com/fredch16/miniRT) (in progress) - a simple ray tracer being built from scratch
+ 
+- [Push_swap](https://github.com/arinatyurina/push_swap) - sorting algorithm within limited operations
+ 
+- [Pipex](https://github.com/arinatyurina/pipex) - shell redirection and pipes
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

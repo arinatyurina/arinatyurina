@@ -10,7 +10,7 @@
 
 📧 You can reach me at  arina.tyur@gmail.com
 
-🪷 Apart from coding, I love doing **yoga** and **cycling to the 42 campus**
+🧘 Apart from coding, I love doing **yoga** and **cycling to the 42 campus**
 
 🎧 Fun fact: My friend and I recorded a [song](https://band.link/vXrw3?fbclid=PAAaYJe-opRA1jm8IWbjay4cU6uK7B6J4oA806W-1-ajJGiUd2K7wET1Mo3Js), and it's been streamed over a million times
 

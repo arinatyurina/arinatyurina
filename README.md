@@ -19,7 +19,7 @@
  
 - [Philosophers](https://github.com/arinatyurina/philosophers) - exploration of multithreading and mutexes
  
-- [MiniRT](https://github.com/fredch16/miniRT) (in progress) - a simple ray tracer being built from scratch
+- [MiniRT](https://github.com/fredch16/miniRT) - a simple ray tracer being built from scratch
  
 - [Push_swap](https://github.com/arinatyurina/push_swap) - sorting algorithm within limited operations
  

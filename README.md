@@ -25,6 +25,8 @@
  
 - [Pipex](https://github.com/arinatyurina/pipex) - shell redirection and pipes
 
+- [IRC](https://github.com/sukhovasv/ft_irc) - building IRC server with c++
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/arina-tyurina-6903511a5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arina-tyurina-6903511a5" height="30" width="40" /></a>
